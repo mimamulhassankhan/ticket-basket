@@ -1,0 +1,5 @@
+C:\Users\DCL\source\repos\TicketBasket\TicketBasket.Models\bin\Debug\netstandard2.0\TicketBasket.Models.deps.json
+C:\Users\DCL\source\repos\TicketBasket\TicketBasket.Models\bin\Debug\netstandard2.0\TicketBasket.Models.dll
+C:\Users\DCL\source\repos\TicketBasket\TicketBasket.Models\obj\Debug\netstandard2.0\TicketBasket.Models.csprojAssemblyReference.cache
+C:\Users\DCL\source\repos\TicketBasket\TicketBasket.Models\obj\Debug\netstandard2.0\TicketBasket.Models.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\TicketBasket\TicketBasket.Models\obj\Debug\netstandard2.0\TicketBasket.Models.AssemblyInfo.cs
